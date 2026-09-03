@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: mockpulse-backend
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/mockpulse
+server:
+  port: 8080
